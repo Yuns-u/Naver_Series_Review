@@ -21,4 +21,4 @@
 
 # Reference
 - playstore_naverseries_reviews.py : https://www.youtube.com/watch?v=QGKLVzG0Jd8 를 참조함.
-- new_playstore_naver_series.py : https://heytech.tistory.com/148 참고함.
+- new_playstore_naverseries.py : https://heytech.tistory.com/148 참고함.
