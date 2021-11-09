@@ -20,5 +20,5 @@
 - 웹 페이지에 나타난 리뷰들을 크롤링한 것으로 리뷰의 수와 질이 다소 떨어지는 것 같음.
 
 # Reference
-playstore_naverseries_reviews.py : https://www.youtube.com/watch?v=QGKLVzG0Jd8 를 참조함.
-new_playstore_naver_series.py : https://heytech.tistory.com/148 참고함.
+- playstore_naverseries_reviews.py : https://www.youtube.com/watch?v=QGKLVzG0Jd8 를 참조함.
+- new_playstore_naver_series.py : https://heytech.tistory.com/148 참고함.
